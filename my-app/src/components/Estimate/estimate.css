@@ -1,0 +1,33 @@
+.estimate {
+  background-color: #fb055a;
+  margin-left: 60px;
+  margin-top: 25px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.cost {
+  color: white;
+  padding-top: 150px;
+  font-size: 50px;
+}
+
+.paragraph {
+  font-size: 27px;
+  text-align: center;
+  font-weight: 300;
+  padding-top: 20px;
+  padding-left: 70px;
+  padding-right: 70px;
+  color: aqua;
+}
+
+.form-button {
+  margin-top: 20px !important;
+  width: 300px;
+  height: 65px;
+  color: #fb055a !important;
+  background-color: white !important;
+  border-radius: 50px !important;
+  margin-bottom: 20px !important;
+}
